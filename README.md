@@ -2,7 +2,7 @@
 
 Are you tired of mindlessly scrolling through long web pages with your mouse wheel? Make scrolling fun and challenging with **Flappy Scroll**!
 
-With Flappy Scroll, your page will scroll each time you pass a pipe, adding an element of excitement and engagement to your browsing experience. But beware—hit a pipe, and you'll be sent back to the top of the page!
+With Flappy Scroll, your page will scroll each time you pass a pipe, adding an element of excitement and engagement to your browsing experience. Simply click to make the bird jump. But beware—hit a pipe, and you'll be sent back to the top of the page!
 
 ## Installation
 
@@ -12,7 +12,6 @@ With Flappy Scroll, your page will scroll each time you pass a pipe, adding an e
 4. Select the `dist` folder from the downloaded files.
 
 And you're all set! Enjoy a new way of navigating through pages with Flappy Scroll.
-Simply click to make the bird jump.
 
 ## About
 
