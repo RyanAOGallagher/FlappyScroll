@@ -12,6 +12,7 @@ With Flappy Scroll, your page will scroll each time you pass a pipe, adding an e
 4. Select the `dist` folder from the downloaded files.
 
 And you're all set! Enjoy a new way of navigating through pages with Flappy Scroll.
+Simply click to make the bird jump.
 
 ## About
 
