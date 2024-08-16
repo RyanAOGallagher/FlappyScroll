@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Flappy Scroll React",
+    "version": "1.0",
+    "description": "Scroll the page by playing a Flappy Bird-like game.",
+    "icons": {
+        "48": "lewis.png"
+      },
+    "action": {
+      "default_popup": "index.html" 
+    },
+    "permissions": [
+      "activeTab",
+      "scripting"
+    ],
+    "host_permissions": [
+         "http://*/*",
+         "https://*/*"
+    ]
+  }
+  
