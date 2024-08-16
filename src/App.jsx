@@ -45,8 +45,7 @@ function App() {
           birdImg.src = 'https://i.ibb.co/59j6Yz3/lewis.png';
 
           function drawBird() {
-        
-            ctx.clearRect(bird.x, bird.y, bird.width, bird.height); // Clear the previous bird position
+            ctx.clearRect(bird.x, bird.y, bird.width, bird.height);
             ctx.drawImage(birdImg, bird.x, bird.y, bird.width, bird.height);
           }
 
